@@ -1,7 +1,7 @@
 # SNAP_IA_Thalem
 Interthalamic adhesion's mask on the Thalem 1 &amp; 2 datasets from Toulouse
 
-Those analysis follows a protocol named SNAP, which is in preparation.
+Those analyses follow a protocol named SNAP, which is in preparation.
 
 The IA_overlap_Thalem.zip file contains all the IA's masks by subject. Those masks are the overlap of two raters' segmentation when the Dice coefficient was superior to 0.80, demonstrating high agreement.
 
